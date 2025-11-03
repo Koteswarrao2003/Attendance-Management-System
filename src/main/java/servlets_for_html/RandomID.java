@@ -1,6 +1,6 @@
 package servlets_for_html;
 
-
+import java.util.Random;
 
 public class RandomID 
 {
