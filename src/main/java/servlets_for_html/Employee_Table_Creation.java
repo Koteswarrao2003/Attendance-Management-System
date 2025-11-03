@@ -2,6 +2,7 @@ package servlets_for_html;
 
 import java.sql.Statement;
 
+import connection.Connection_Class;
 
 public class Employee_Table_Creation {
 	
